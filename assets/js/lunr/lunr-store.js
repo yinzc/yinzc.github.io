@@ -210,7 +210,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Layout: Post with Nested Table of Contents via Helper",
-        "excerpt":"Tests table of contents with multiple levels to verify indentation is readible via helper include (deprecated). {% include toc %} On this page Enim laboris id ea elit elit deserunt 2 Sit adipisicing tempor duis velit cupidatat occaecat do amet 2.1 Ex et quis exercitation fugiat excepteur eiusmod mollit consequat...","categories": [],
+        "excerpt":"Tests table of contents with multiple levels to verify indentation is readible via helper include (deprecated). {% include toc %} 目录 Enim laboris id ea elit elit deserunt 2 Sit adipisicing tempor duis velit cupidatat occaecat do amet 2.1 Ex et quis exercitation fugiat excepteur eiusmod mollit consequat id pariatur...","categories": [],
         "tags": ["table of contents"],
         "url": "/layout-table-of-contents-include-post/",
         "teaser": null
@@ -395,9 +395,9 @@ var store = [{
         "url": "/%E8%87%AA%E6%88%91%E5%AE%9E%E8%B7%B5/GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA-%E5%8D%9A%E5%AE%A2/",
         "teaser": "/assets/images/markup-syntax-highlighting-teaser.jpg"
       },{
-        "title": "复合类型",
-        "excerpt":"数组 数组的初始化规则 C++11 数组初始化方法 Header five Header six 字符串 什么是字符串？ 拼接字符串常量 在数组中使用字符串 字符串输入 每次读取一行字符串输入 混合输入字符串和整数 Single line blockquote: Stay hungry. Stay foolish. Multi line blockquote with a cite reference: People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at...","categories": ["编程语言"],
-        "tags": ["C++复合类型","数组","字符串","共用体","枚举","指针"],
+        "title": "《C++ Primer Plus》之复合类型",
+        "excerpt":"A variety of common markup showing how the theme styles them. 揭开OKR的庐山真面目 Header three Header four Header five Header six OKR实现团队协作与创新 Single line blockquote: Stay hungry. Stay foolish. Multi line blockquote with a cite reference: People think focus means saying yes to the thing you’ve got to focus on. But...","categories": ["编程语言"],
+        "tags": ["C/C++","数组","字符串","共用体","枚举","指针"],
         "url": "/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C++-Primer-Plus-%E4%B9%8B%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B/",
         "teaser": "/assets/images/markup-syntax-highlighting-teaser.jpg"
       },{
